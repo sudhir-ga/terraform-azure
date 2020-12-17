@@ -6,4 +6,4 @@ provider "azurerm" {
 resource "azurerm_resource_group" "rg" {
   name     = "myFirstResourceGroup"
   location = "centralus"
-}s
+}
